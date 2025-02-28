@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lakshmi Cortracker\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lakshmi Cortracker\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AUG ERP\\CORERP360-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\aug erp\\corerp360-api\\usine_core\\controllers\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\aug erp\\corerp360-api\\usine_core\\models\\usinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\usinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsineContext.cs",
+              "DocumentMoniker": "D:\\AUG ERP\\CORERP360-api\\Usine_Core\\Models\\UsineContext.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\UsineContext.cs",
+              "ToolTip": "D:\\AUG ERP\\CORERP360-api\\Usine_Core\\Models\\UsineContext.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\UsineContext.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:47:16.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "General.cs",
+              "DocumentMoniker": "D:\\AUG ERP\\CORERP360-api\\Usine_Core\\Controllers\\General.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\General.cs",
+              "ToolTip": "D:\\AUG ERP\\CORERP360-api\\Usine_Core\\Controllers\\General.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\General.cs",
+              "ViewState": "AQIAAIoBAAAAAAAAAAAkwIACAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:32:07.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

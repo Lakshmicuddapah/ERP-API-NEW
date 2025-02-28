@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Usine_Core.Models
+{
+    public partial class HrdEmployeeFamilyDetails
+    {
+        public long? RecordId { get; set; }
+        public long LineId { get; set; }
+        public string Relativename { get; set; }
+        public string Relation { get; set; }
+        public string BranchId { get; set; }
+        public int? CustomerCode { get; set; }
+
+        public virtual HrdEmployees Record { get; set; }
+    }
+}

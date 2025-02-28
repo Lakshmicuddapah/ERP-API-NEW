@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\AUG ERP\release v2.0_testapi</_PublishTargetUrl>
+    <History>True|2025-02-21T14:00:17.3757565Z||;True|2025-02-21T19:12:13.4547930+05:30||;True|2025-02-14T20:43:26.8980404+05:30||;True|2025-02-14T19:30:30.5594298+05:30||;True|2024-07-18T17:10:32.6682255+05:30||;True|2024-07-16T17:23:16.3593947+05:30||;True|2024-07-08T15:26:19.3935421+05:30||;True|2024-07-05T19:00:13.6746642+05:30||;True|2024-07-05T17:06:17.1680448+05:30||;True|2024-06-27T10:15:01.3910412+05:30||;True|2024-06-24T12:04:05.7461987+05:30||;True|2024-04-23T11:16:25.1906578+05:30||;True|2024-04-23T11:15:44.6967760+05:30||;True|2024-04-23T11:13:06.6038024+05:30||;True|2024-04-02T15:21:41.1474609+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
