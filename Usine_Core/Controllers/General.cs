@@ -509,7 +509,7 @@ namespace Usine_Core.Controllers
                 ss = s + ss.Substring( 1, ss.Length-1);
                 return (ss);
             }
-            catch(Exception ee)
+            catch(Exception )
             {
                 return (" ");
             }

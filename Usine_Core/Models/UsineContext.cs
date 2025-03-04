@@ -2,6 +2,7 @@
 using System.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+//using Microsoft.Data.SqlClient;
 using Usine_Core.Controllers;
 
 namespace Usine_Core.Models
